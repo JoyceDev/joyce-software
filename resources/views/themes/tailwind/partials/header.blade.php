@@ -32,4 +32,5 @@
     @else
         @include('theme::menus.authenticated-mobile')
     @endif
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/78e7856e9b6f4d711e13e281f/6d0aecd991e3c070da8a230bc.js");</script>
 </header>
