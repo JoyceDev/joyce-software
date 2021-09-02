@@ -1,5 +1,5 @@
 spec:
-  name: JoyceSoftware
+  name: joycesoftware
   services:
   - name: web
     git:
